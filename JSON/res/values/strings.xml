@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JSON</string>
+    <string name="action_settings">Settings</string>
+    <string name="whereisISS">Where is the ISS</string>
+    <string name="latitudeL">Latitude</string>
+    <string name="longitudeL">Longitude</string>
+    <string name="actualizar">actualizar</string>
+
+</resources>
